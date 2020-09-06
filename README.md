@@ -1,4 +1,4 @@
-# But du porjet :
+# But du projet :
 - Le but de ce projet est de créer une plate-forme de challenges pour les failles Web afin que des utilisateurs puissent s'entrainer sur les vulnérabilités Web comme les XSS, SQLi, CSRF etc.
 - Les differentes parties ci-dessous expliquent le fonctionnement de l'application.
 
