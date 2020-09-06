@@ -8,10 +8,10 @@
 
 # Python :
 - Cette partie, à l'aide de SELENIUM, vérifie si les XSS s'executent dans la page et envoi un paquet à l'API pour valider la faille ou non.
-- Si la faille est validée, l'API va stocket dans un fichier JSON les informations de l'utilisateur.
+- Si la faille est validée, l'API va stocker dans un fichier JSON les informations de l'utilisateur.
 
 # Web PHP :
-- Cette partie permet à un utilisateur de créer un ticket pour n'importe qu'elle faille en choisissant un type de faille puis en selectionnant le numéro de la faille, puis, il tape son nom d'utilisateur.
+- Cette partie permet à un utilisateur de créer un ticket pour n'importe quelle faille en choisissant un type de faille puis en selectionnant le numéro de la faille, et, il tape son nom d'utilisateur.
 - Il ecrit son payload pour la faille puis envoie le ticket qui part sur l'API et le code Python lit un API Endpoint pour regarder les nouveaux tickets qui arrivent.
 
 # Reste à faire :
