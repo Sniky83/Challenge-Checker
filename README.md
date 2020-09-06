@@ -1,6 +1,6 @@
 # But du projet :
-- Le but de ce projet est de créer une plate-forme de challenges pour les failles Web afin que des utilisateurs puissent s'entrainer sur les vulnérabilités Web comme les XSS, SQLi, CSRF etc.
-- Les differentes parties ci-dessous expliquent le fonctionnement de l'application.
+- Le but de ce projet est de créer une plate-forme de challenges pour les failles Web afin que des utilisateurs puissent s'entraîner sur les vulnérabilités Web comme les XSS, SQLi, CSRF etc.
+- Les différentes parties ci-dessous expliquent le fonctionnement de l'application.
 
 # API NodeJS :
 - Cette API permet de communiquer avec le code python qui valide les challenges des utilisateurs et récupère les tickets émits par le site Web.
