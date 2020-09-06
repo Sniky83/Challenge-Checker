@@ -1,0 +1,31 @@
+{
+  "vulnerability_type":
+  {
+    "XSS": [
+      {
+        "1": [
+          {
+            "username": "Sniky",
+            "data": "</script><script>alert();</script>"
+          },
+          {
+            "username": "Nhos",
+            "data": "'><script>alert();</script>"
+          }
+        ]
+      },
+      {
+          "5": [
+          {
+            "username": "Corwin",
+            "data": "';alert();//"
+          },
+          {
+            "username": "Chewbaka",
+            "data": "<img src='chewbi' onerror='alert();'>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "user":
+  {
+    "Sniky": [
+      {
+        "total_points": 100,
+        "validated_challenges": [
+          {
+            "XSS": [
+              {
+                "challenge_id": 1
+              },
+              {
+                "challenge_id": 2
+              }
+            ],
+            "SQL": [
+              {
+                "challenge_id": 1
+              },
+              {
+                "challenge_id": 5
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Corwin": [
+      {
+        "total_points": 70,
+        "validated_challenges": [
+          {
+            "XSS": [
+              {
+                "challenge_id": 1
+              },
+              {
+                "challenge_id": 2
+              }
+            ],
+            "SQL": [
+              {
+                "challenge_id": 1
+              },
+              {
+                "challenge_id": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

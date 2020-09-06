@@ -1,0 +1,1 @@
+{"vulnerability_type":{"XSS":[{"2":[{"username":"Sniky","data":"<script>alert();"}]},{"1":[{"username":"JME","data":"CODE MALVVEILLANT"}]}]}}

@@ -1,0 +1,16 @@
+{
+  "name": "challenge-checker",
+  "version": "1.0.0",
+  "description": "API to receive tickets from vulnerability reports.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sniky",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "require": "^2.4.20"
+  }
+}

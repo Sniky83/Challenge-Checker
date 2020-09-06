@@ -1,0 +1,27 @@
+{
+	"vulnerability_type":
+	{
+		"XSS": [
+			{
+			  "Sniky": [
+			    {
+			      "challenge_id": 1
+			    },
+			    {
+			      "challenge_id": 5
+			    }
+			  ]
+			},
+			{
+			  "Corwin": [
+			    {
+			      "challenge_id": 2
+			    },
+			    {
+			      "challenge_id": 5
+			    }
+			  ]
+			}
+		]
+	}
+}

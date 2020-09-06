@@ -1,0 +1,29 @@
+{
+	"vulnerability_type":
+	{
+		"XSS": [
+			{
+				"challenge_id": 1,
+				"base_url": "http://localhost/Challenges/XSS/1.php?username=",
+				"challenge_points": 2
+			},
+			{
+				"challenge_id": 2,
+				"base_url": "http://localhost/Challenges/XSS/2.php?player=",
+				"challenge_points": 4
+			}
+		],
+		"SQL": [
+			{
+				"challenge_id": 1,
+				"base_url": "http://localhost/Challenges/SQL/1.php?search=",
+				"challenge_points": 7
+			},
+			{
+				"challenge_id": 5,
+				"base_url": "http://localhost/Challenges/SQL/2.php?login=",
+				"challenge_points": 6
+			}
+		]
+	}
+}
